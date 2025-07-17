@@ -12,5 +12,4 @@
 - 💻 Estudante de Ciências da Computação e ADS
 - 🧑‍💻 Bolsista no Residência TIC 55
 - 👨‍🎓 Aluno do IFRS e da Anhanguera
-- 
-
+  
