@@ -1,5 +1,6 @@
 💻 Hello World 👋
-Olá me chamo Lucas Oliveira, sou natura do Rio Grande do Sul, e estou estudando para me tornar um Desenvolvedor de Software. Atualmente, estou cursando Ciências da Computação na Instituição Anhanguera e Análise e Desenvolvimento de Sistemas no IFRS.
+<br>
+Me chamo Lucas Oliveira, sou natura do Rio Grande do Sul, e estou estudando para me tornar um Desenvolvedor de Software. Atualmente, estou cursando Ciências da Computação na Instituição Anhanguera e Análise e Desenvolvimento de Sistemas no IFRS.
 
 <div style="display: inline_block"><br>
   <img 
