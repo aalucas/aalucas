@@ -82,6 +82,5 @@ Me chamo Lucas Oliveira, sou natura do Rio Grande do Sul, e estou estudando para
 <br>
 
 - 💻 Estudante de Ciências da Computação e ADS
-- 🧑‍💻 Bolsista no Residência TIC 55
 - 👨‍🎓 Aluno do IFRS e da Anhanguera
   
